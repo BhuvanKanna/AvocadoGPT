@@ -8,8 +8,8 @@ PathfinderGPT is a clone of Google's AI bot, Gemini, developed using the Gemini 
 ## Installation
 
 1. Clone the repository: 
-   ``git clone https://github.com/BhuvanKanna/PathfinderGPT.git``
-   ``cd PathfinderGPT``
+   ``git clone https://github.com/BhuvanKanna/AvocadoGPT.git``
+   ``cd AvocadoGPT``
 
    OR Download ZIP file and navigate to directory
    
